@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Camera
+  - SpeedUp
+  - SpeedDown
+  - GameOver
+  - wall
+  - Key
+  - coin
+  - Already
+  - Confusion
+  - BreakWall
+  - Invisible
+  - Enemy2
+  - BORNUS
+  - UpDownWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - player
+  - Water
+  - UI
+  - camera
+  - SpeedUp
+  - Gameover
+  - Enemy
+  - DawnWall
+  - UpWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
